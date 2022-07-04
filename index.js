@@ -1,4 +1,3 @@
-const data = require("./data.json");
 
 /**
  * Check if provided code is a valid country code
